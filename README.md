@@ -1,2 +1,2 @@
 # Portfolio-Optimisation-Risk-Analysis
-Comprehensive portfolio optimisation, time series forecasting, factor risk analysis, and performance evaluation for a five-stock investment portfolio.
+This project analyses a five-stock investment portfolio to assess performance, optimise allocations, forecast future risks, and evaluate factor exposures. Methods include Mean-Variance Optimisation, ARIMA-GARCH forecasting, Fama-French factor analysis, and Monte Carlo stress testing.
